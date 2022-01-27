@@ -2,6 +2,7 @@
 layout: post
 title: Blacked Liya Silver 181019 
 author: forestavxxx
+catagorys: blacked
 tags:
 - 서양
 - 문신
