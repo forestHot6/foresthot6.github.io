@@ -20,7 +20,7 @@ date: 2022-01-27 18:03 +0800
 
 
 
-![Liya Silver](https://user-images.githubusercontent.com/30513055/15135399547ce441b-cc8d-489e-810d-7b9dd4f426ab.jpg)
+![Liya Silver](https://user-images.githubusercontent.com/30513055/151355069-76e35afe-bafd-4d5f-bf90-76264d092e62.jpg)
 
 
 
