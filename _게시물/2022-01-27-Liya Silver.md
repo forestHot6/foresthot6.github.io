@@ -12,7 +12,6 @@ tags:
 - Jason Luv
 date: 2022-01-27 18:03 +0800
 ---
-![Liya Silver](https://user-images.githubusercontent.com/30513055/151353331-37d82c39-cdff-452a-a0f0-0442d3ee2374.jpg)
 
 ![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Liya%20Silver1.jpg)
 
