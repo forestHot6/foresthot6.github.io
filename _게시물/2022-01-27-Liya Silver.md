@@ -14,7 +14,7 @@ date: 2022-01-27 18:03 +0800
 ---
 ![Liya Silver](https://user-images.githubusercontent.com/30513055/151353331-37d82c39-cdff-452a-a0f0-0442d3ee2374.jpg)
 
-
+![](forestavxxx.github.io/_images/Liya Silver1.jpg)
 
 리야 실버(Liya Silver, 1999년 2월 25일 ~ )는 러시아의 모델이자 포르노 배우로 본명은 크리스티나 셰르비니나(러시아어: Кристина Щербинина)다.
 
