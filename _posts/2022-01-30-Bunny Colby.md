@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Blacked Bunny Colby 190110
