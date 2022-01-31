@@ -6,8 +6,6 @@ categories:
 - Blacked
 tags:
 - 서양
-- 문신
-- 타투
 - black
 - blacked
 - Liya Silver
