@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "deploy": "gatsby build && gh-pages -d public -r git@github.com:forestavxxx/saveBlog.git -b master"
+  }
+}
