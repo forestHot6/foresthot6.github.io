@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Blacked Kenzie Reeves 190213
+title: Blacked Khloe Kapri 190213
 author: forestavxxx
 categories: 
 - Blacked
@@ -8,34 +8,36 @@ tags:
 - 서양
 - black
 - blacked
-- Kenzie Reeves
-- 
+- Khloe Kapri
+- Jason Luv 
+- Prince Yahshua
 date: 2022-02-03 14:16 +0800
 ---
 
 
-![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Kenzie%20Reeves/Kenzie%20Reeves1.jpg)
+![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Khloe%20Kapri/Khloe%20Kapri1.jpg)
 
 
-1999년 7월 7일 미국 뉴햄프셔 주 북부에서 태어났는데 비록 그는 플로리다에서 자랐지만 모르몬운동의 매우 보수적인 가정에서 태어났다. 
+예명인 클로이 카프리(Khloe Kapri)는 1997년 10월 미국 네바다주 라스베가스에서 태어났습니다.
 
 
-![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Kenzie%20Reeves/Kenzie%20Reeves2.jpg)
+![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Khloe%20Kapri/Khloe%20Kapri2.jpg)
 
 
-그는 16세가 될 때까지 타코 벨 패스트 푸드 체인점의 레스토랑에서 일하기 시작했고 그 때 그는 스트리퍼로서 춤을 추고 미국 전역의 다양한 클럽을 여행하기 시작했다. 
+고등학교를 졸업한 후 18세에 소꿉친구인 여배우 Kelly Greene을 통해 포르노 산업에 접근했습니다. 
 
 
-![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Kenzie%20Reeves/Kenzie%20Reeves3.jpg)
+![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Khloe%20Kapri/Khloe%20Kapri3.jpg)
 
 
-에이전트에 발각된 뒤 20년 만인 2017년 포르노 여배우로 19살때 시작을 했다.
+그녀는 캘리포니아로 이주하여 18세의 나이로 2016년 말에 포르노 배우로 데뷔했습니다.
 
 
-![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Kenzie%20Reeves/Kenzie%20Reeves4.jpg)
+![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Khloe%20Kapri/Khloe%20Kapri4.jpg)
 
 
-![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Kenzie%20Reeves/Kenzie%20Reeves5.jpg)
+첫 몇 달 동안 그녀는 Petergirls 웹 포털에서 아마추어 포르노 모델이자 여배우로 일했습니다
 
 
+![](https://raw.githubusercontent.com/forestavxxx/forestavxxx.github.io/main/_images/Khloe%20Kapri/Khloe%20Kapri5.jpg)
 
