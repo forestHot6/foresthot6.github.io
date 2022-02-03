@@ -1,4 +1,4 @@
-# Not Pure Poole <!-- omit in toc -->
+# Not Pure Poole <!-- omit in toc -->  
 
 <a href="https://jekyll-themes.com">
   <img src="https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg" height="20" alt="Jekyll Themes Shield" >
@@ -10,7 +10,7 @@
 >
 > -- <a href="https://www.bbc.co.uk/bitesize/guides/zbtjnrd/revision/6"><cite>The death of Jekyll</cite></a>
 
------
+----- 
 
 See Not Pure Poole in action with [the demo site](https://vszhub.github.io/not-pure-poole/).
 
@@ -207,6 +207,6 @@ Your theme is setup just like a normal Jekyll site! To test your theme, run `bun
 When your theme is released, only the files in `_layouts`, `_includes`, `_sass` and `assets` tracked with Git will be bundled.
 To add a custom directory to your theme-gem, please edit the regexp in `not-pure-poole.gemspec` accordingly.
 
-## License
+## License 
 
 The theme is available as open source under the terms of the [MIT License](https://opensource.org/licenses/MIT).
