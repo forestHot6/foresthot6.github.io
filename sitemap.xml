@@ -1,23 +1,53 @@
+---
+
+layout: null
+
+---
+
+
+
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url>
-    <loc>https://ForestAVXXX.github.io/blacked/2022/01/29/Ivy-Wolfe/</loc>
-    <lastmod>2022-01-29T15:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
+
+<urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+        
+        xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+    {% for post in site.posts %}
+  
+    <url>
+      
+      <loc>{{ site.url }}{{ post.url }}</loc>
+      
+        {% if post.lastmod == null %}
+      
+      <lastmod>{{ post.date | date_to_xmlschema }}</lastmod>
+      
+        {% else %}
+      
+      <lastmod>{{ post.lastmod | date_to_xmlschema }}</lastmod>
+      
+        {% endif %}
+      
+      
+        {% if post.sitemap.changefreq == null %}
+      
+      <changefreq>weekly</changefreq>
+      
+        {% else %}
+      
+      <changefreq>{{ post.sitemap.changefreq }}</changefreq>
+      
+        {% endif %}
+      
+      
+
+      
   </url>
-  <url>
-    <loc>https://ForestAVXXX.github.io/blacked/2022/01/28/Bunny-Colby/</loc>
-    <lastmod>2022-01-28T15:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://ForestAVXXX.github.io/blacked/2022/01/27/Lacy-Lennon/</loc>
-    <lastmod>2022-01-27T15:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
-  <url>
-    <loc>https://ForestAVXXX.github.io/blacked/2022/01/26/Liya-Silver/</loc>
-    <lastmod>2022-01-26T15:01:00+00:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url>
+  
+    {% endfor %}
+  
 </urlset>
+      
+
