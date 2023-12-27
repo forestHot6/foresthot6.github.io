@@ -1,7 +1,7 @@
 # Setup
-title: ForestAVXXX
-description: A simple, beautiful, sexy, big
-url: https://ForestAVXXX.github.io
+title: ForestXXX
+description: A simple
+url: https://ForestXXX.github.io
 avatar: /avatar.jpeg
 paginate: 5
 permalink: pretty
@@ -29,13 +29,13 @@ exclude:
 
 # Optimize Jekyl SEO Tag
 twitter:
-  username: ForestAVXXX
+  username: ForestXXX
   card: summary
 logo: logo.png
 social:
-  name: ForestAVXXX
+  name: ForestXXX
   links:
-    - https://ForestAVXXX.github.io
+    - https://ForestXXX.github.io
 google_site_verification: 5XKHTJCxzMOoTf7ZqqYA-rjVDhAZj5DqJNHgNZ6Jmbs
 lang: kr
 
@@ -53,6 +53,6 @@ google_analytics: G-KHYVME9YGZ
 
 # Specify the author for blog posts
 author:
-  name: ForestAVXXX
-  url: https://ForestAVXXX.github.io
+  name: ForestXXX
+  url: https://ForestXXX.github.io
   email: ??@gmail.com
